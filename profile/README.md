@@ -49,7 +49,7 @@
       <a href="https://github.com/alreadysons"><img src="https://avatars.githubusercontent.com/u/83567253?v=4" style="border-radius:50%"/></a>
     </td>
     <td align= "center" width="130px"> 
-      <a href="https://github.com/"></a>
+      <a href="https://github.com/DS0708"><img src="https://avatars.githubusercontent.com/u/134291529?v=4" style="border-radius:50%"/></a>
     </td>
     <td align= "center" width="130px">
       <a href="https://github.com/sayyyho"><img src="https://avatars.githubusercontent.com/u/34148750?v=4" style="border-radius:50%"/></a>
