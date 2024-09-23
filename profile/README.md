@@ -55,10 +55,10 @@
       <a href="https://github.com/sayyyho"><img src="https://avatars.githubusercontent.com/u/34148750?v=4" style="border-radius:50%"/></a>
     </td>
     <td align= "center" width="130px">
-      <a href="https://github.com/"></a>
+      <a href="https://github.com/miinseo324"><img src="https://avatars.githubusercontent.com/u/67571521?v=4" style="border-radius:50%"/></a>
     </td>
     <td align= "center" width="130px">
-      <a href="https://github.com/"></a>
+      <a href="https://github.com/MoiJiyeon"><img src="https://avatars.githubusercontent.com/u/118200927?v=4" style="border-radius:50%"/></a>
     </td>
   </tr>
 </table>
